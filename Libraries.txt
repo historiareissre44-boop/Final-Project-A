@@ -1,0 +1,5 @@
+	1.	Pandas
+	2.	Numpy
+	3.	Seaborn
+	4.	Matplotlib
+	5.	Scikit-Learn (StandarScaler , Train_Test_Split )
